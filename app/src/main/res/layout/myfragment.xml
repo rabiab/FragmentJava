@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:background="#ffffa3ca"
+        android:textColor="#ff010101"
+         android:text="i am fragment1"
+        android:id="@+id/f1"
+        android:padding="15dp"
+        />
+
+</LinearLayout>
